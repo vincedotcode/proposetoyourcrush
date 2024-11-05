@@ -49,4 +49,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with 💖 and a sprinkle of JavaScript by [Your Name]
+Made with 💖 and a sprinkle of JavaScript by Vince Erkadoo
